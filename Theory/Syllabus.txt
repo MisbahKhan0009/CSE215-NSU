@@ -1,0 +1,15 @@
+::::::Assignments topics, Quiz, Mid, Final syllabus::::::
+
+
+Assignment 1: Design and Implement of Customised Exception Based on in Any Real Life Scenario.
+Assignment 2: Design and Implement of a Chat System using Synchronized Multithreaded Programming. 
+
+
+Quiz 1: Input Output, Class & Object, Constructor.
+Quiz 2: Inheritence, Abstract Classes, Interface.
+Quiz 3: Exception Handling[Based on Assignment 1].
+Quiz 4: Multithreading [Based on Assignment 2].
+
+
+Mid Exam: Slide 1-12
+Final Exam: Slide 13-26
